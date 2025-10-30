@@ -93,5 +93,4 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 ---
 
-Would you like me to generate a **visually enhanced version** (with badges, emojis, and a gradient banner header like a top open-source project)?  
-It’ll look premium on your GitHub profile and make your repo stand out.
+
